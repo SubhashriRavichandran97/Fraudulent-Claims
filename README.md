@@ -1,5 +1,5 @@
 Dataset Link - https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data
 
-**Überblick**
+**Overview**
 
-Erstellung eines überwachten Betrugserkennungsmodells mit Random Forest (86 % Genauigkeit). Durchführung von EDA, Datenvorverarbeitung, Feature Engineering und Klassenbalancierung mit SMOTE. Modelloptimierung mit GridSearchCV und Bewertung mittels ROC-AUC. 
+Developed a supervised fraud detection model using Random Forest (86% accuracy). Performed EDA, data preprocessing (including SMOTE for class imbalance handling), and feature selection. Optimized the model using GridSearchCV and evaluated its performance using ROC-AUC.
