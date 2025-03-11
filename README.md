@@ -13,4 +13,4 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, imbalanced-learn (S
 
 **Outcome**
 
-Results are in
+Results are in 'Fraudulent_Claims_Prediction.pdf' above.
