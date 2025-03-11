@@ -10,3 +10,7 @@ Developed a supervised fraud detection model using Random Forest (86% accuracy).
 Programming Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, imbalanced-learn (SMOTE)
+
+**Outcome**
+
+Results are in
